@@ -710,6 +710,46 @@ video {
   right: 0px;
 }
 
+.left-\[50\%\] {
+  left: 50%;
+}
+
+.left-\[4\%\] {
+  left: 4%;
+}
+
+.right-3 {
+  right: 0.75rem;
+}
+
+.right-\[87\%\] {
+  right: 87%;
+}
+
+.right-\[13\%\] {
+  right: 13%;
+}
+
+.right-\[3\%\] {
+  right: 3%;
+}
+
+.right-\[10\%\%\] {
+  right: 10%%;
+}
+
+.right-\[10\%\] {
+  right: 10%;
+}
+
+.right-\[5\%\] {
+  right: 5%;
+}
+
+.right-\[4\%\] {
+  right: 4%;
+}
+
 .-z-10 {
   z-index: -10;
 }
@@ -884,6 +924,10 @@ video {
 
 .h-\[4000px\] {
   height: 4000px;
+}
+
+.h-\[50px\] {
+  height: 50px;
 }
 
 .w-\[91\.6\%\] {
@@ -1305,6 +1349,272 @@ video {
 
 .\[writing-mode\:vertical-lr\] {
   writing-mode: vertical-lr;
+}
+
+@media (max-width: 639px) {
+  .max-\[639px\]\:static {
+    position: static;
+  }
+
+  .max-\[639px\]\:left-0 {
+    left: 0px;
+  }
+
+  .max-\[639px\]\:top-0 {
+    top: 0px;
+  }
+
+  .max-\[639px\]\:right-0 {
+    right: 0px;
+  }
+
+  .max-\[639px\]\:top-\[62px\] {
+    top: 62px;
+  }
+
+  .max-\[639px\]\:top-\[40px\] {
+    top: 40px;
+  }
+
+  .max-\[639px\]\:top-\[120px\] {
+    top: 120px;
+  }
+
+  .max-\[639px\]\:top-\[80px\] {
+    top: 80px;
+  }
+
+  .max-\[639px\]\:right-\[10\%\] {
+    right: 10%;
+  }
+
+  .max-\[639px\]\:right-\[20\%\] {
+    right: 20%;
+  }
+
+  .max-\[639px\]\:left-\[4\.1\%\] {
+    left: 4.1%;
+  }
+
+  .max-\[639px\]\:top-\[90px\] {
+    top: 90px;
+  }
+
+  .max-\[639px\]\:top-\[100px\] {
+    top: 100px;
+  }
+
+  .max-\[639px\]\:right-\[4\.1\%\] {
+    right: 4.1%;
+  }
+
+  .max-\[639px\]\:top-\[180px\] {
+    top: 180px;
+  }
+
+  .max-\[639px\]\:top-\[60px\] {
+    top: 60px;
+  }
+
+  .max-\[639px\]\:right-\[30\%\] {
+    right: 30%;
+  }
+
+  .max-\[639px\]\:right-\[60\%\] {
+    right: 60%;
+  }
+
+  .max-\[639px\]\:left-\[80\%\] {
+    left: 80%;
+  }
+
+  .max-\[639px\]\:left-\[70\%\] {
+    left: 70%;
+  }
+
+  .max-\[639px\]\:left-\[75\%\] {
+    left: 75%;
+  }
+
+  .max-\[639px\]\:top-\[350px\] {
+    top: 350px;
+  }
+
+  .max-\[639px\]\:left-\[65\%\] {
+    left: 65%;
+  }
+
+  .max-\[639px\]\:left-\[82\%\] {
+    left: 82%;
+  }
+
+  .max-\[639px\]\:top-\[30px\] {
+    top: 30px;
+  }
+
+  .max-\[639px\]\:top-\[50px\] {
+    top: 50px;
+  }
+
+  .max-\[639px\]\:top-\[70px\] {
+    top: 70px;
+  }
+
+  .max-\[639px\]\:top-\[150px\] {
+    top: 150px;
+  }
+
+  .max-\[639px\]\:ml-auto {
+    margin-left: auto;
+  }
+
+  .max-\[639px\]\:mr-auto {
+    margin-right: auto;
+  }
+
+  .max-\[639px\]\:block {
+    display: block;
+  }
+
+  .max-\[639px\]\:flex {
+    display: flex;
+  }
+
+  .max-\[639px\]\:h-\[500px\] {
+    height: 500px;
+  }
+
+  .max-\[639px\]\:h-\[1420px\] {
+    height: 1420px;
+  }
+
+  .max-\[639px\]\:h-\[200px\] {
+    height: 200px;
+  }
+
+  .max-\[639px\]\:h-\[238px\] {
+    height: 238px;
+  }
+
+  .max-\[639px\]\:h-\[1224px\] {
+    height: 1224px;
+  }
+
+  .max-\[639px\]\:h-auto {
+    height: auto;
+  }
+
+  .max-\[639px\]\:h-\[650px\] {
+    height: 650px;
+  }
+
+  .max-\[639px\]\:h-\[400px\] {
+    height: 400px;
+  }
+
+  .max-\[639px\]\:h-\[622px\] {
+    height: 622px;
+  }
+
+  .max-\[639px\]\:h-\[1500px\] {
+    height: 1500px;
+  }
+
+  .max-\[639px\]\:h-\[1350px\] {
+    height: 1350px;
+  }
+
+  .max-\[639px\]\:w-auto {
+    width: auto;
+  }
+
+  .max-\[639px\]\:w-full {
+    width: 100%;
+  }
+
+  .max-\[639px\]\:flex-col {
+    flex-direction: column;
+  }
+
+  .max-\[639px\]\:gap-0 {
+    gap: 0px;
+  }
+
+  .max-\[639px\]\:gap-\[100px\] {
+    gap: 100px;
+  }
+
+  .max-\[639px\]\:overflow-hidden {
+    overflow: hidden;
+  }
+
+  .max-\[639px\]\:text-ellipsis {
+    text-overflow: ellipsis;
+  }
+
+  .max-\[639px\]\:whitespace-nowrap {
+    white-space: nowrap;
+  }
+
+  .max-\[639px\]\:whitespace-pre-line {
+    white-space: pre-line;
+  }
+
+  .max-\[639px\]\:whitespace-break-spaces {
+    white-space: break-spaces;
+  }
+
+  .max-\[639px\]\:break-words {
+    overflow-wrap: break-word;
+  }
+
+  .max-\[639px\]\:text-center {
+    text-align: center;
+  }
+
+  .max-\[639px\]\:text-right {
+    text-align: right;
+  }
+
+  .max-\[639px\]\:text-5xl {
+    font-size: 3rem;
+    line-height: 1;
+  }
+
+  .max-\[639px\]\:text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+  }
+
+  .max-\[639px\]\:text-3xl {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+
+  .max-\[639px\]\:text-9xl {
+    font-size: 8rem;
+    line-height: 1;
+  }
+
+  .max-\[639px\]\:text-\[120px\] {
+    font-size: 120px;
+  }
+
+  .max-\[639px\]\:text-\[200px\] {
+    font-size: 200px;
+  }
+
+  .max-\[639px\]\:text-\[180px\] {
+    font-size: 180px;
+  }
+
+  .max-\[639px\]\:text-\[150px\] {
+    font-size: 150px;
+  }
+
+  .max-\[639px\]\:overline {
+    text-decoration-line: overline;
+  }
 }
 
 @media (min-width: 640px) {
